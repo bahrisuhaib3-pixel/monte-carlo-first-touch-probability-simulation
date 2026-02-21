@@ -2,7 +2,7 @@ MONTE CARLO FIRST TOUCH PROBABILITY SIMULATOR
 
 This project estimates the probability that a stock reaches a target price or stop-loss within a fixed time horizon using Monte Carlo simulation.
 
-The goal is not to price options — it’s to evaluate trade risk, probability of outcomes, and position sizing logic before entering a trade.
+The goal is not to price options it’s to evaluate trade risk, probability of outcomes, and position sizing logic before entering a trade.
 
 
 
@@ -46,7 +46,7 @@ Key Parameters
 
 Historical lookback window (chosen number of your choice, default 120)  
 Simulation horizon in trading days  
-Number of simulated paths (chosen number of your liking preferably > 250,000 for time but still works)  
+Number of simulated paths (chosen number of your liking preferably > 250,000 for time sake but still works)  
 Target and stop levels  
 Student-t degrees of freedom (fat-tail control)
 
@@ -63,7 +63,7 @@ This is a probabilistic risk model, not a prediction engine.
 
 
 
-Disclaimer
 
-For research and educational purposes only.  
-Not financial advice.
+
+For research purposes only
+
