@@ -53,8 +53,9 @@ It does not model volatility clustering or regime shifts.
 Transaction costs and slippage are ignored.  
 It is not a standalone trading system.
 
-This is a probabilistic risk model, not a prediction engine.
 
+This is a probabilistic risk model, not a prediction engine.
+(PROJECT IS NOT FULLY COMPLETED)
 
 
 
